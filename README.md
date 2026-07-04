@@ -36,4 +36,4 @@ Become a Professional Cybersecurity Engineer.
 
 
 ## Day [1]
-- learn osi and tcp/ip model
+- learn osi and tcp/ip model {تم الحمدالله}
